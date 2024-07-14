@@ -9,6 +9,10 @@
   "bin": {
     "sk-redis": "./src/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEMYSESx/sk-redis-cli"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
